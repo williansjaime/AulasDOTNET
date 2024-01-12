@@ -1,0 +1,15 @@
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/bin/Debug/net8.0/AulaClassesInstancia
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/bin/Debug/net8.0/AulaClassesInstancia.deps.json
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/bin/Debug/net8.0/AulaClassesInstancia.runtimeconfig.json
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/bin/Debug/net8.0/AulaClassesInstancia.dll
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/bin/Debug/net8.0/AulaClassesInstancia.pdb
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/obj/Debug/net8.0/AulaClassesInstancia.GeneratedMSBuildEditorConfig.editorconfig
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/obj/Debug/net8.0/AulaClassesInstancia.AssemblyInfoInputs.cache
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/obj/Debug/net8.0/AulaClassesInstancia.AssemblyInfo.cs
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/obj/Debug/net8.0/AulaClassesInstancia.csproj.CoreCompileInputs.cache
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/obj/Debug/net8.0/AulaClassesInstancia.sourcelink.json
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/obj/Debug/net8.0/AulaClassesInstancia.dll
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/obj/Debug/net8.0/refint/AulaClassesInstancia.dll
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/obj/Debug/net8.0/AulaClassesInstancia.pdb
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/obj/Debug/net8.0/AulaClassesInstancia.genruntimeconfig.cache
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaClassesInstancia/obj/Debug/net8.0/ref/AulaClassesInstancia.dll

@@ -1,0 +1,15 @@
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/bin/Debug/net8.0/AulaNamespace
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/bin/Debug/net8.0/AulaNamespace.deps.json
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/bin/Debug/net8.0/AulaNamespace.runtimeconfig.json
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/bin/Debug/net8.0/AulaNamespace.dll
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/bin/Debug/net8.0/AulaNamespace.pdb
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/obj/Debug/net8.0/AulaNamespace.GeneratedMSBuildEditorConfig.editorconfig
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/obj/Debug/net8.0/AulaNamespace.AssemblyInfoInputs.cache
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/obj/Debug/net8.0/AulaNamespace.AssemblyInfo.cs
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/obj/Debug/net8.0/AulaNamespace.csproj.CoreCompileInputs.cache
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/obj/Debug/net8.0/AulaNamespace.sourcelink.json
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/obj/Debug/net8.0/AulaNamespace.dll
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/obj/Debug/net8.0/refint/AulaNamespace.dll
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/obj/Debug/net8.0/AulaNamespace.pdb
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/obj/Debug/net8.0/AulaNamespace.genruntimeconfig.cache
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaNamespace/obj/Debug/net8.0/ref/AulaNamespace.dll
