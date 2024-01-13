@@ -1,3 +1,5 @@
+using System;
+using System.Text;
 using Transacao.Transacoes;
 namespace ContaBanco.ContasBanco;
 public class Banco
@@ -46,6 +48,18 @@ public class Banco
         }
         ClassTransacao trans = new ClassTransacao(-valor,data,obs);
         this.todasTransacoes.Add(trans);
+    }
+
+    public string PegarMovimentacao()
+    {
+        var movimentacoes = new StringBuilder();
+        movimentacoes.AppendLine("Data\t\tvalor\t\tObs");
+        foreach (var item in todasTransacoes){
+            movimentacoes.AppendLine($"{item.Data.ToShortDateString()}\t{item.Valor}\t{item.Obs}");
+        }
+
+        return movimentacoes.ToString();
+
     }
 
 }
