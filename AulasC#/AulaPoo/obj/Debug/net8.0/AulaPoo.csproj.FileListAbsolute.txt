@@ -1,0 +1,15 @@
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/bin/Debug/net8.0/AulaPoo
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/bin/Debug/net8.0/AulaPoo.deps.json
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/bin/Debug/net8.0/AulaPoo.runtimeconfig.json
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/bin/Debug/net8.0/AulaPoo.dll
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/bin/Debug/net8.0/AulaPoo.pdb
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/obj/Debug/net8.0/AulaPoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/obj/Debug/net8.0/AulaPoo.AssemblyInfoInputs.cache
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/obj/Debug/net8.0/AulaPoo.AssemblyInfo.cs
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/obj/Debug/net8.0/AulaPoo.csproj.CoreCompileInputs.cache
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/obj/Debug/net8.0/AulaPoo.sourcelink.json
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/obj/Debug/net8.0/AulaPoo.dll
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/obj/Debug/net8.0/refint/AulaPoo.dll
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/obj/Debug/net8.0/AulaPoo.pdb
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/obj/Debug/net8.0/AulaPoo.genruntimeconfig.cache
+/home/willians/workspace/AulasDOTNET/AulasC#/AulaPoo/obj/Debug/net8.0/ref/AulaPoo.dll
