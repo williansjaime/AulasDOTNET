@@ -1,0 +1,14 @@
+﻿@{
+    //ViewData["Title"] = "Home Page";
+}
+<h1>Bem vindo</h1>
+
+Olá: @ViewData["Nome"]
+@if (ViewData["Numerox"] != null){
+    <ul>
+    @for(int i = 0; i<= Convert.ToInt32(ViewData["Numerox"]); i++)
+    {
+        <li>| @i |</li>
+    }
+    </ul>
+}
